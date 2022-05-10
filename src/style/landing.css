@@ -1,0 +1,38 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/bg/bg.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: 4px;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/bg/trending.jpg");
+  background-size: cover;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.Images {
+  height: 500px;
+}
