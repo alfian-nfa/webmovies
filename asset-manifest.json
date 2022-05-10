@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webmovies/static/css/main.d3f55957.css",
+    "main.js": "/webmovies/static/js/main.52c948d0.js",
+    "static/js/787.e01b21a7.chunk.js": "/webmovies/static/js/787.e01b21a7.chunk.js",
+    "static/media/kenshin.jpg": "/webmovies/static/media/kenshin.7b451686d4208be29750.jpg",
+    "static/media/trending.jpg": "/webmovies/static/media/trending.cf3133cf168e44464ad1.jpg",
+    "static/media/shangchi.jpg": "/webmovies/static/media/shangchi.3e9a1fa1ebf8971d343e.jpg",
+    "static/media/bg.jpg": "/webmovies/static/media/bg.14c17b87109f6cd52b5c.jpg",
+    "static/media/interstellar.jpg": "/webmovies/static/media/interstellar.ff6a283b4c852c43bfd4.jpg",
+    "static/media/nobody.jpg": "/webmovies/static/media/nobody.65ca7ab1192d86becd14.jpg",
+    "static/media/dune.jpg": "/webmovies/static/media/dune.7ed3aebcba0917ebb34a.jpg",
+    "static/media/jamesbond.jpg": "/webmovies/static/media/jamesbond.d6756e6bc269491cdf61.jpg",
+    "index.html": "/webmovies/index.html",
+    "main.d3f55957.css.map": "/webmovies/static/css/main.d3f55957.css.map",
+    "main.52c948d0.js.map": "/webmovies/static/js/main.52c948d0.js.map",
+    "787.e01b21a7.chunk.js.map": "/webmovies/static/js/787.e01b21a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f55957.css",
+    "static/js/main.52c948d0.js"
+  ]
+}
